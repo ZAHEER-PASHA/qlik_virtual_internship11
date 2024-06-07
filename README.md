@@ -7,4 +7,4 @@
 
 # Hands on demonstration Link : https://drive.google.com/file/d/1qQITmczIK5R37NWN2kw417yfq3gXO5RH/view?usp=sharing
 
-# Demonstration Link : https://drive.google.com/file/d/1wVgo0FKKch55LaiQ3cUdjqtUexZM8qIF/view?usp=sharing
+# Documentation Link : https://drive.google.com/file/d/1wVgo0FKKch55LaiQ3cUdjqtUexZM8qIF/view?usp=sharing
